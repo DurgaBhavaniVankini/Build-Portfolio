@@ -1,0 +1,19 @@
+body{background:url(images/white_leather.png) repeat 0 0; }
+.logo {padding-top: 11px;display: block;}
+.logo span{display:none}
+h3 {font-size: 18px;line-height: 1.5em;}
+p {text-align: center;}
+h1 { color: #5FC7E6; }
+.center{display: block;margin-left: auto;margin-right: auto;}
+hr.soften {margin: 8px 0;background: #DDD;}
+.caption p{margin:0}
+.caption h4{margin:0}
+.thumbnail .caption {padding: 9px;color: #555555;background: #F3F2F2;}
+.thumbnail{position:relative;}
+.tag {background:url(images/new.png) no-repeat 0 0; position: absolute; display:block; top: -4px;right: -18px; height:48px; width:48px;}
+#newProductCar .carousel-control {position: absolute;top: -48px;width: 24px;height: 24px;margin-top: 0;font-size: 16px;font-weight: bold;line-height: 1.5em;color: #ffffff;text-align: center;background: #FFA300;border: 0;-webkit-border-radius: 0;-moz-border-radius: 0;border-radius: 0;}
+#newProductCar .carousel-control.right {right: 8px; left: auto;}
+#newProductCar .carousel-control.left {right: 38px; left: auto;}
+#newProductCar{margin-bottom:0}
+.shopBtn {min-height: 34px;font-size: 14px;font-weight: bold;line-height: 34px;text-align: center;color: #fff;border-radius: 2px;background: #f89406;display:inline-block;padding:0 12px;border:0;}
+.shopBtn:hover {color: #fff; text-decoration:none; background:#F86706}
